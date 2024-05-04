@@ -1,5 +1,5 @@
 // Grab this code, create a new document in /a/boot, name it 'init.js' and open it, paste this code and save. Restart your system and you can find "free robux 2024" in programs (win93), or programs => other (win94)
-
+// Or paste into termianl if you plan testing it in one boot. Finding the program is still the same though.
 le._apps.boot = {
   categories: "Amusement",
   name: "Free Robux 2024",
