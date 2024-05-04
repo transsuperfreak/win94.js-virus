@@ -1,6 +1,6 @@
 // Download this, then drag and drop into boot folder. Refresh win93 and use steps below to start program.
 // Or paste into termianl if you plan testing it in one boot. Finding the program in win93 is impossible, use "boot" in terminal. Finding program in win94 is in other category.
-var freerobux2024= le._apps.boot = {
+le._apps.boot = {
   categories: "Amusement",
   name: "Free Robux 2024",
   icon: "/c/files/images/icons/pow.png",
